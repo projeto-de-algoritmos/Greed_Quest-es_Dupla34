@@ -24,3 +24,20 @@ Caetano Santos Lucio | <a href="https://github.com/caeslucio">caeslucio</a>|
 <p align="justify"> Para executar uma solução no Beecrowd, basta submete-la no campo "SOURCE CODE" relativo a questão em que se deseja resolver. Para encontrar esse campo, basta selecionar a questão na lista de questões. Um ponto interessante a ser comentado é que o site em questão classifica as questões de acordo com a dificuldade e o assunto o qual ela aborda. Diante disso, como comentado anteriormente, as questões selecionadas são sobre Greed.</p>
 
 ![image](https://user-images.githubusercontent.com/72039007/212565882-050146a1-a532-4a83-b740-4994f55d332b.png)
+
+## Exemplificando a execução das questões
+<p align="justify"> A fins de demonstração, será apresentado a seguir a execução das questões resolvidas no juíz online beecrowd. Sendo assim, a imagem a baixo exemplifica as questões e o(s) assunto(s) os quais elas abrangem, assim como se foi resolvida pelo usuário ou não.</p>
+
+![image](https://user-images.githubusercontent.com/72039007/212566890-fb2b7eb3-0bb8-4063-8846-a25afaf5fdc2.png)
+
+### Questão 1 - Festival de Estátuas de Gelo
+![Q1_1034](https://user-images.githubusercontent.com/72039007/212566677-05ecf14a-083b-43b1-9841-6d66efd3bb12.png)
+
+### Questão 2 - Apagando e Ganhando
+![Q2_1084](https://user-images.githubusercontent.com/72039007/212566686-d18a501c-4ca4-4e88-83cc-ae7da7926bd7.png)
+
+### Questão 3 - Sapo Dinâmico
+![image](https://user-images.githubusercontent.com/72039007/212566771-895c0f2d-5eac-4b55-8398-a5f76a206b68.png)
+
+### Questão 4 - Soma Permutada Elegante
+![image](https://user-images.githubusercontent.com/72039007/212566838-f5a99cde-0428-4322-b64d-cda2c82a5bdb.png)
